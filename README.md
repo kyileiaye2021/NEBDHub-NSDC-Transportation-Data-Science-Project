@@ -15,5 +15,6 @@ There are 6 milestones in this project.
 * Self-guided research 
 * Virtual Poster 
 
+![](./TDSP_Poster.png)
 ### Reference for dataset
 https://nebigdatahub.org/dsrr/
